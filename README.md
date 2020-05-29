@@ -15,5 +15,6 @@ The Python part comprises of three files.
 * A module to create image dataset for training the Neural Network (1_create_dataset.py).
 * A module to train the Neural Network model (2_train_model.py).
 * A module that uses the trained model to detect gestures and send commands to WinCC (3_gesture_control.py).
-  
-The WinCC RT project just has one screen. It reads 6 tags over OPC-UA to complete the demo.
+A detailed description on usage of individual module is given in module docstring. 
+
+The **WinCC RT** project just has one screen. It reads 6 tags over OPC-UA to complete the demo.
