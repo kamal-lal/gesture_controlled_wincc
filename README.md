@@ -18,4 +18,4 @@ The Python part comprises of three files.
 
 A detailed description on usage of individual module is given in module docstring. Trained model "**_gest_recog_model.h5_**" is also uploaded.
 
-The **WinCC RT** project just has one screen. It reads 6 tags over OPC-UA to complete the demo.
+The **__WinCC RT__** project just has one screen. It reads 6 tags over OPC-UA to complete the demo.
